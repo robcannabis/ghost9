@@ -59,7 +59,7 @@ change[Math.floor(Math.random()*change.length)]; // รูปใหญ่
       .setURL('https://www.youtube.com/watch?v=yFg7_bjl2-k')
       .setState(`🍃 : ${global.wind} Km/h | 🌡 : ${global.temp} C°`)
       .setName(`RobShop`)
-      .setDetails(`ROV FIRST BLOOD`)
+      .setDetails(`GHOST9`)
       //.setAssetsSmallImage(`${popp}`) 
 .setAssetsLargeImage(`${ssss}`)
 .setAssetsLargeText(`（  ${getTime()} ） • （ ${moment().format('DD/MM/YYYY')} ）`)
